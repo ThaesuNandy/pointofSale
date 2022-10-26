@@ -1,0 +1,15 @@
+h5{
+	text-transform: uppercase;
+	color: #f2eee3;
+     font-family: 'Poppins', sans-serif;
+     border-radius: 10px;
+     background: rgb(174,177,238);
+	 background: radial-gradient(circle, rgba(174,177,238,1) 0%, rgba(120,161,210,1) 100%);
+	}
+th,td{
+	border-color:#6f7679 ;
+	}
+table{
+	border: 1px solid #6f7679;
+	border-radius: 10px;
+	}
